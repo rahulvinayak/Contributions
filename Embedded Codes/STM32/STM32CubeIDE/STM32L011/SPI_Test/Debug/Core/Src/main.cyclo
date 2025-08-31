@@ -1,0 +1,8 @@
+../Core/Src/main.c:127:6:Print	1
+../Core/Src/main.c:134:6:PrintChar	1
+../Core/Src/main.c:139:6:PrintNumber	4
+../Core/Src/main.c:160:6:SPI_Init	2
+../Core/Src/main.c:182:6:UART_Init	1
+../Core/Src/main.c:202:6:GPIO_Init	1
+../Core/Src/main.c:234:6:SystemClock_Config	1
+../Core/Src/main.c:21:5:main	11

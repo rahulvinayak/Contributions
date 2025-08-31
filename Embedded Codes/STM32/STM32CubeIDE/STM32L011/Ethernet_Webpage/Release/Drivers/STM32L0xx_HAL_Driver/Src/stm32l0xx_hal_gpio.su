@@ -1,0 +1,13 @@
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:215:6:W5500_Write	32	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:223:9:W5500_Read	24	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:234:6:W5500_WriteN	40	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:199:6:W5500_Send	16	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:243:6:W5500_ReadN	40	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:179:10:W5500_Recv	16	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:252:6:Print	8	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:156:6:W5500_Init	24	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:259:6:SPI_Init	8	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:276:6:UART_Init	8	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:290:6:GPIO_Init	40	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:317:6:SystemClock_Config	80	static
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c:59:5:main	48	static

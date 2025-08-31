@@ -1,0 +1,15 @@
+../Core/Src/main.c:58:5:main	6
+../Core/Src/main.c:113:6:W5500_Reset	1
+../Core/Src/main.c:122:6:W5500_SetNetwork	1
+../Core/Src/main.c:133:6:W5500_InitSocket	4
+../Core/Src/main.c:162:10:W5500_ReceiveData	3
+../Core/Src/main.c:182:6:W5500_SendData	3
+../Core/Src/main.c:199:6:W5500_WriteReg	1
+../Core/Src/main.c:207:9:W5500_ReadReg	1
+../Core/Src/main.c:218:6:W5500_WriteMulti	1
+../Core/Src/main.c:227:6:W5500_ReadMulti	1
+../Core/Src/main.c:236:6:DebugPrint	2
+../Core/Src/main.c:243:6:MX_SPI1_Init	1
+../Core/Src/main.c:263:6:MX_USART2_UART_Init	1
+../Core/Src/main.c:281:6:MX_GPIO_Init	1
+../Core/Src/main.c:312:6:SystemClock_Config	1

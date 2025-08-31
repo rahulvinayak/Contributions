@@ -7,9 +7,8 @@
 
 ---
 
-A collaborative repository for **electronics-related work**, including:  
+A collaborative repository for **Electronics-related work**, including:  
 - 📐 **KiCad Schematics** – Circuit designs, PCB layouts, libraries  
-- 💻 **Source Code** – Scripts, tools, and automation for projects  
 - ⚡ **Embedded Code** – Firmware for microcontrollers, drivers, and RTOS examples  
 - 🔧 **Hardware Notes** – Datasheets, application notes, and design references  
 
@@ -21,11 +20,11 @@ A collaborative repository for **electronics-related work**, including:
 
   contributions/
   │
-  ├── kicad/            # KiCad projects, schematics, PCB layouts
-  ├── embedded/         # Firmware and embedded C/C++/Arduino/STM32/ESP32 code
-  ├── software/         # General scripts, utilities, or host-side code
-  ├── docs/             # Datasheets, references, and documentation
-  └── README.md         # You are here
+  ├── 📂 Embedded Codes/               # Firmware and embedded C/C++/Arduino/STM32/ESP32 code
+  ├── 📂 kicad/                        # KiCad projects, schematics, PCB layouts
+  ├── 📂 Libraries and Dependencies/     # Libraries and Dependencies used for the Codes and Projects
+  ├── 📂 docs/                         # Datasheets, references, and documentation
+  └── 📂 README.md                     # You are here
 
 ````
 
@@ -42,8 +41,7 @@ A collaborative repository for **electronics-related work**, including:
 2. **Explore folders**
 
    * Open `.kicad_pcb` or `.sch` files with [KiCad](https://kicad.org/).
-   * Build embedded code with **Arduino IDE**, **STM32CubeIDE**, or **PlatformIO**.
-   * Run general scripts from the `software/` folder.
+   * Build embedded code with **Arduino IDE**, **STM32CubeIDE**, **ESP IDF**, or **PlatformIO**.
 
 ---
 
